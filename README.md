@@ -3,7 +3,7 @@
 ## Introduction
 This project uses computer vision and convolutional neural networks to identify defects in pills, aiming to improve quality control in pharmaceutical manufacturing.
 
-## Coming Soon
+## Source Code
 The source code for this project is not publicly available due to privacy and intellectual property considerations. For inquiries or discussions about the project's architecture and outcomes, feel free to contact me.
 ## Technology Stack
 - Computer Vision
