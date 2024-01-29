@@ -15,5 +15,8 @@ Feel free to reach out to me at Bakr2alkanbari@gmail.com.
 Connect with me on Linkedin https://www.linkedin.com/in/bakr-alkanbari/
 
 
-https://github.com/Bakr-963/AI-Enhanced-Pill-Defect-Detection-for-Manufacturing/assets/143032745/958d8163-2c49-483a-8d65-a092d840a5bd
+
+
+
+https://github.com/Bakr-963/AI-Enhanced-Pill-Defect-Detection-for-Manufacturing/assets/143032745/c3187210-ded9-4c44-8117-3f543fa19449
 
